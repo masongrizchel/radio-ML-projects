@@ -1,6 +1,3 @@
-# radio-ML-projects
-Radio Astronomy meets AI: Using Scikit-Learn to simulate spectral analysis and unsupervised clustering of astronomical data.
-
 # Astro-ML: Radio Astronomy & Machine Learning
 
 This repository contains a collection of Python projects exploring the intersection of **Radio Astronomy** and **Data Science/AI**. The goal is to apply modern Machine Learning techniques to fundamental astrophysical problems, demonstrating how AI can "rediscover" physics and automate data analysis.
